@@ -10,7 +10,7 @@ heroku3
 motor
 pillow
 psutil
-py-tgcalls==0.9.7
+git+https://github.com/vicky0604hello/pytgcalls
 pykeyboard
 git+https://github.com/vicky0604hello/pyrogram
 python-dotenv
